@@ -1,0 +1,46 @@
+@media (min-width: 64em) {
+  .eighty-width {
+    width: 80.0%;
+  }
+  .seventy-width {
+    width: 70.0%;
+  }
+  .sixty-width {
+    width: 60.0%;
+  }
+  .fifty-width {
+    width: 50.0%;
+  }
+  .forty-width {
+    width: 40.0%;
+  }
+  .thirty-width {
+    width: 30.0%;
+  }
+  .twenty-width {
+    width: 20.0%;
+  }
+}
+@media (max-width: 63.99em) {
+  .eighty-width {
+    width: 100.0%;
+  }
+  .seventy-width {
+    width: 100.0%;
+  }
+  .sixty-width {
+    width: 100.0%;
+  }
+  .fifty-width {
+    width: 100.0%;
+  }
+  .forty-width {
+    width: 100.0%;
+  }
+  .thirty-width {
+    width: 100.0%;
+  }
+  .twenty-width {
+    width: 100.0%;
+  }
+}
